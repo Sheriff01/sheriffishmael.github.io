@@ -1,0 +1,240 @@
+/* Media Queries */
+
+@media only screen and (min-width: 320px) and (max-width: 1275px) {
+  #ebolah1{
+    font-size: 100%
+
+  }
+
+
+  #ebolah22 {
+  margin-top: 110px;
+  width: 100%;
+}
+}
+@media (max-width: 1200px) {
+  #ebolah22 {
+    margin-top: 110px
+
+  }
+}
+
+@media (max-width: 1011px) {
+  #leoneh2 {
+    width: 100%;
+    margin-top:33px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 15px;
+    background-color black
+
+  }
+  a {font-size: 110%
+  }
+    
+  nav{
+    margin-top: 10px;
+    position: absolute;
+    right: 0;
+    bottom:-18px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+}
+@media (max-width:768px) {
+  header #nav,
+  aside#leone,
+  header nav,
+  #newsletter h1,
+  #newsletter form,#content,
+  #boxes .box,
+  article#main-col,
+  aside#sidebar,.sec {
+    float:left;
+    text-aligncenter;
+    width:100%;
+    padding: 1px;
+    margin-top 1px;
+    word-wrap:break-word;
+  }
+  .one-third-padding,.wrapper {
+    width: 82%;
+    margin-left: 8%;
+    margin-right: auto;
+  }
+
+  wrapper
+    height:15%
+
+  }
+  .one-third-padding2{
+    float: left;
+    width: 50%;
+
+  }
+  #header1{
+    margin-top: 0x;
+  }
+  aside{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    word-wrap:break-word;
+  }
+  #leone ul,{
+    text-align: left;
+    margin-left: 3px;
+    text-align: left;
+    margin-rsight 4px;
+    font-size: 13px;
+  }
+
+  leone p{
+    text-align: left;
+    font-size: 100%;
+    
+    margin-right: 10px;
+  }
+
+
+  #leone p
+    overflow: hidden;
+    margin-right:  40px;
+  }
+  #content 
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+iframe{
+  height: 190px;
+  width:100%;
+}
+  header{
+    padding-bottom:0px;
+  }
+sec,h1, {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+  #showcase h1{
+    margin-top:40px;
+  }
+
+  #newsletter button, .quote button{
+    display:block;
+    width:100%;
+  }
+
+  #newsletter form input[type="email"], .quote input, .quote textarea{
+    width:100%;
+    margin-bottom:5px;
+  }
+  .pic-wrapper{
+    height: 15em
+  }
+
+ @media screen and (max-width:710px) {
+  #menu-icon {
+       background:url ("button1.png") center;
+      display: inline;
+      float: right;
+      width: 50px;
+      height: 50px;
+      padding-right 5px;
+    }
+    #menulist{
+      display: block;
+      float: left;
+      font-weight: bold;
+      margin-top:-10px;
+    }
+      nav ul, nav:active ul {
+    display:none;
+    z-index:1000;
+    position:absolute;
+    padding: 20px;
+    background: #f5f5f5;
+    border: 1px solid #a5bdcd;
+    right: 20px;
+    width: 50%;
+    border-radius: 10px 10px 10px 10px;
+    opacity: .95;
+    margin-top: 30px
+  }
+  nav li {
+    text-align: center;
+    width: 100%;
+  }
+  nav ul li{
+    margin-left: 0px;
+}
+
+nav{
+      width: 100%;
+
+    }
+    nav:hover ul{
+    display: block;
+  }
+    
+
+}
+
+  @media(max-width: 500px) {
+    .pic-wrapper{
+      width: 80%;
+      margin-right: 10%;
+      margin-left: 10%
+    }
+  }
+
+      
+
+@media(max-width: 483px) {
+  #leoneh2{
+    font-size: 20px;
+    padding-left: -.35px
+    margin-left -.85px;
+    width 40%;
+    text-align: left;
+    background-color black
+  }
+}
+
+  @media (max-width:339px) {
+ #leoneh2{
+  text-align: center;
+  padding-left: -.0px;
+  background-color black;
+}
+}
+
+  }
+@media(max-width: 379px){
+  #logo{
+    display: none;
+    float: left;
+    text-align: left;
+    background-color: yellow;
+    margin-left: -.80px
+  }
+   }
+@media(max-width: 360px){
+    #ebolah1{
+      font-size: 70%
+    }
+    #leoneh2{
+      font-size: 100%
+    }
+    #menulist{
+      margin-top: 1px
+    }
+
+
+}
